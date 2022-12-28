@@ -1,0 +1,17 @@
+E:\LSData\Net Core\Cognitive_Services\OCR\8-OCR\bin\Debug\netcoreapp3.1\8-OCR.exe
+E:\LSData\Net Core\Cognitive_Services\OCR\8-OCR\bin\Debug\netcoreapp3.1\8-OCR.deps.json
+E:\LSData\Net Core\Cognitive_Services\OCR\8-OCR\bin\Debug\netcoreapp3.1\8-OCR.runtimeconfig.json
+E:\LSData\Net Core\Cognitive_Services\OCR\8-OCR\bin\Debug\netcoreapp3.1\8-OCR.runtimeconfig.dev.json
+E:\LSData\Net Core\Cognitive_Services\OCR\8-OCR\bin\Debug\netcoreapp3.1\8-OCR.dll
+E:\LSData\Net Core\Cognitive_Services\OCR\8-OCR\bin\Debug\netcoreapp3.1\8-OCR.pdb
+E:\LSData\Net Core\Cognitive_Services\OCR\8-OCR\bin\Debug\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+E:\LSData\Net Core\Cognitive_Services\OCR\8-OCR\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+E:\LSData\Net Core\Cognitive_Services\OCR\8-OCR\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+E:\LSData\Net Core\Cognitive_Services\OCR\8-OCR\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\LSData\Net Core\Cognitive_Services\OCR\8-OCR\obj\Debug\netcoreapp3.1\8-OCR.AssemblyInfoInputs.cache
+E:\LSData\Net Core\Cognitive_Services\OCR\8-OCR\obj\Debug\netcoreapp3.1\8-OCR.AssemblyInfo.cs
+E:\LSData\Net Core\Cognitive_Services\OCR\8-OCR\obj\Debug\netcoreapp3.1\8-OCR.csproj.CoreCompileInputs.cache
+E:\LSData\Net Core\Cognitive_Services\OCR\8-OCR\obj\Debug\netcoreapp3.1\8-OCR.csproj.CopyComplete
+E:\LSData\Net Core\Cognitive_Services\OCR\8-OCR\obj\Debug\netcoreapp3.1\8-OCR.dll
+E:\LSData\Net Core\Cognitive_Services\OCR\8-OCR\obj\Debug\netcoreapp3.1\8-OCR.pdb
+E:\LSData\Net Core\Cognitive_Services\OCR\8-OCR\obj\Debug\netcoreapp3.1\8-OCR.genruntimeconfig.cache
